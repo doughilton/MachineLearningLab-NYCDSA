@@ -1,3 +1,12 @@
+#Dan
+.DS_Store
+.ipynb_checkpoints/
+.RData
+*.csv
+.Rhistory
+Returns.csv
+Machine_Learning_Lab.md
+#Doug
 /Machine_Learning_Lab
 .ipynb_checkpoints/
 .DS_Store
